@@ -17,10 +17,10 @@
 <h3 align="center">📈 my github stats</h3>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=airatmm">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=airatmm&theme=vue&show_icons=true&locale=en&layout=compact" alt="airatmm"/>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=airatmm&theme=vue&show_icons=true&locale=en&layout=compact" alt="airatmm"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=airatmm">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=airatmm&theme=vue&show_icons=true&locale=en" alt="airatmm" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=airatmm&theme=vue&show_icons=true&locale=en" alt="airatmm" />
   </a>
 
 <h3 align="left">Connect with me:</h3>
