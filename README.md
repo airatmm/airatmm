@@ -16,7 +16,7 @@
 
 <h3 align="center">📈 my github stats</h3>
 
-<img height="150" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=airatmm&theme=vue&show_icons=true&locale=en&layout=compact" alt="airatmm"/> <img height="150" width="500" src="https://github-readme-stats.vercel.app/api?username=airatmm&theme=vue&show_icons=true&locale=en" alt="airatmm" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=airatmm&theme=vue&show_icons=true&locale=en&layout=compact" alt="airatmm"/> <img height="170" src="https://github-readme-stats.vercel.app/api?username=airatmm&theme=vue&show_icons=true&locale=en" alt="airatmm" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
