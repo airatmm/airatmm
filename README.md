@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
  
 <h3 align="left">Languages and Tools:</h3>
-<p>JavaScript, TypeScript, Angular, RxJs, NGRX, React, Redux, HTML, CSS, SCSS,  MongoDB, Node.js, Express, Git</p>
+<p>JavaScript, TypeScript, Angular, RxJs, NGRX, React, Next, Redux, HTML, CSS, SCSS,  MongoDB, Node.js, Express, Git</p>
 
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=airatmm">
     <img height="160" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=airatmm&theme=vue&show_icons=true&locale=en&layout=compact" alt="airatmm"/>
